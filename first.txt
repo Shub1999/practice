@@ -1,4 +1,4 @@
 1. First text doc for git tutorial
 2. changing file after 1 commit
 3. trying to modify after staging
-4. trying git diff command.
+4. trying git diff command...
