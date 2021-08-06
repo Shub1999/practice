@@ -2,3 +2,4 @@
 2. changing file after 1 commit
 3. trying to modify after staging
 4. trying git diff command...
+5. trying to skip statging area
